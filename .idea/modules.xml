@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OurFirst.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OurFirst.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OurFirst.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OurFirst.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OurFirst.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OurFirst.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningJava/OurFirst.learningJava.iml" filepath="$PROJECT_DIR$/.idea/modules/learningJava/OurFirst.learningJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningJava/OurFirst.learningJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/learningJava/OurFirst.learningJava.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningJava/OurFirst.learningJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/learningJava/OurFirst.learningJava.test.iml" />
     </modules>
   </component>
 </project>
