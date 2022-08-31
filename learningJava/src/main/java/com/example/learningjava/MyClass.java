@@ -49,12 +49,12 @@ public class MyClass {
         moneyInMyWallet = 100;
         moneyInMyWallet = 92;
         System.out.println(moneyInMyWallet);
-        */
+
 
         // Booleans
         boolean iAmCool = true;
         boolean iAmNotCool = false;
-
+        */
         // If Statements
         /*
         int age = 17;
